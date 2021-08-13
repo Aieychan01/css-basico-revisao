@@ -1,0 +1,51 @@
+section {
+            
+    max-width: 800px;
+    max-height: 900px;
+    
+}
+
+
+.div01 {
+    background-color: red;
+    width: 790px;
+    height: 100px;
+    border: solid green 5px;
+
+}
+
+.div02 {
+    background-color: rgb(190, 112, 221);
+    width: 799px;
+    height: 100px;
+    border: solid 1px;
+
+}
+
+.div03 {
+    border: solid 1px;
+}
+
+.item1 {
+    color: green;
+}
+
+.item2 {
+    color: blue;
+}
+
+.item3 {
+    color: yellow;
+}
+ul {
+    text-decoration: underline;
+}
+
+.div04 {
+    background-color: rgb(235, 180, 1);
+    width: 790px;
+    height: 105px;
+    border: solid rgb(150, 18, 18) 5px;
+    
+    font-size: 24px;
+}

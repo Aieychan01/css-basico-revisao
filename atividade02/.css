@@ -1,0 +1,49 @@
+h1 {
+    text-align: right;
+}
+.og {
+    color: rgb(36, 52, 58);
+    background-color: thistle;
+}
+
+.ku {
+    color: slateblue;
+    background-color: tan;
+}
+
+.te {
+    color: slategray;
+    background-color: springgreen;
+}
+
+#nome {
+    background-color: tomato;
+}
+
+#reg {
+    background-color: violet;
+}
+
+.o1 {
+    background-color: yellowgreen;
+    font-weight: bold;
+}
+
+.o2 {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.o3 {
+    background-color: wheat;
+    font-weight: bold;
+}
+
+.o4 {
+   font-weight: bold;
+}
+
+div {
+   display: flex;
+   justify-content: center;
+}

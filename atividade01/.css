@@ -1,0 +1,28 @@
+body {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+ 
+ a {
+     color: rgb(0, 0, 255);
+ }
+
+ .span {
+     color:red;
+     font-weight: bold;
+
+ }
+
+ div {
+     background-color: rgb(254, 255, 180);
+     width: 58%;
+     height: 40px;
+     padding-left: 19px;
+     padding-top: 20px;
+
+ }
+
+
+ #unico {
+     font-weight: bold;
+ }
